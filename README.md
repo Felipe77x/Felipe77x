@@ -3,10 +3,9 @@
 **`Desenvolvedora FullStack`**
 
 
-Olá! Sou Felipe Dias, desenvolvedor Back-End em início de carreira, movido por tecnologia, curiosidade e aprendizado contínuo.
-Tenho experiência com HTML, CSS, JavaScript, Node.js, MySQL e React, e atualmente estou estudando Python para expandir minhas habilidades e dominar mais linguagens voltadas ao desenvolvimento de sistemas.
+Oi, eu sou o Felipe Dias, um desenvolvedor Back-End em início de carreira, movido por tecnologia e aprendizado constante. Tenho experiência com HTML, CSS, JavaScript, Node.js, MySQL e React, e agora estou estudando Java para expandir meu repertório. 
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) no SENAI CIMATEC, uma instituição reconhecida pela excelência na formação técnica e tecnológica. O curso me proporciona uma base sólida em lógica de programação, estrutura de dados, banco de dados, engenharia de software e desenvolvimento web, com foco prático e alinhado ao mercado de trabalho.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) no SENAI , uma instituição reconhecida pela excelência na formação técnica e tecnológica. O curso me proporciona uma base sólida em lógica de programação, estrutura de dados, banco de dados, engenharia de software e desenvolvimento web, com foco prático e alinhado ao mercado de trabalho.
 
 Além disso, sou estudante da Universidade Federal da Bahia (UFBA), onde curso o Bacharelado Interdisciplinar em Ciência e Tecnologia. Essa formação amplia minha visão crítica e científica sobre a tecnologia, integrando conhecimentos das áreas de exatas, inovação e resolução de problemas complexos. A UFBA também me proporciona um ambiente acadêmico dinâmico, onde participo de projetos, debates e vivências que fortalecem minha formação profissional e pessoal.
 
